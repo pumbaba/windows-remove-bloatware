@@ -8,8 +8,8 @@ This is a simple script which removes a blacklist of bloatware from windows 10 o
 2. Run the following commands
 
 ```powershell
-git clone git@github.com:pumbaba/windows11-remove-bloatware.git
-cd windows11-remove-bloatware
+git clone git@github.com:pumbaba/windows-remove-bloatware.git
+cd windows-remove-bloatware
 powershell -ExecutionPolicy Bypass -File remove-bloatware.ps1
 ```
 

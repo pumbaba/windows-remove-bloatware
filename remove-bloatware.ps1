@@ -24,7 +24,14 @@ $blacklist = @(
     "Microsoft.XboxGamingOverlay",
     "Microsoft.Todos",
     "Microsoft.GamingApp",
-    "microsoft.windowscommunicationsapps"
+    "microsoft.windowscommunicationsapps",
+    "Microsoft.SkypeApp",
+    "SpotifyAB.SpotifyMusic",
+    "Microsoft.Office.OneNote",
+    "Microsoft.MicrosoftStickyNotes",
+    "Microsoft.XboxApp",
+    "Microsoft.XboxSpeechToTextOverlay",
+    "Microsoft.OneDriveSync",
 )
 
 Set-Location -Path $PSScriptRoot
